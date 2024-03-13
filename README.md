@@ -141,8 +141,6 @@ Now open the `my-app` project in your IDE of choice (VS Code for example) and na
 
 When you go to add a `<Button />` component, if your editor supports import auto complete (`ctrl/cmd + .` for VS Code) then you will see it automatically recognize thanks to Typescript that our library exports that button.  
 
-![Auto import](https://res.cloudinary.com/dqse2txyi/image/upload/v1637017033/import_ccwdos.png)
-
 Lets add it!  The simplest example to update `src/App.tsx` is:
 
 `src/App.tsx`
